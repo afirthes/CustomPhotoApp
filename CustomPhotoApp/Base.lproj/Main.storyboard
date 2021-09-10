@@ -33,10 +33,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HC5-sQ-fWy">
-                                <rect key="frame" x="30" y="74" width="40" height="40"/>
+                                <rect key="frame" x="30" y="74" width="80" height="80"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="40" id="M3P-VD-XYT"/>
-                                    <constraint firstAttribute="width" constant="40" id="VCd-ll-U1B"/>
+                                    <constraint firstAttribute="height" constant="80" id="M3P-VD-XYT"/>
+                                    <constraint firstAttribute="width" constant="80" id="VCd-ll-U1B"/>
                                 </constraints>
                                 <connections>
                                     <action selector="showCapturedImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6zd-oN-NwQ"/>
